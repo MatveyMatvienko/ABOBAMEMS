@@ -1,1 +1,1 @@
-# ABOBAMEMS
+# Logika lesson 12
